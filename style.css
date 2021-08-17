@@ -50,3 +50,9 @@ a:hover{
     float: right;
     background: green;
 }
+#rodape{
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: grey;
+}
