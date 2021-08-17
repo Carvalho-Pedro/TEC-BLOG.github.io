@@ -36,3 +36,17 @@ a:hover{
     color: #155FBF;
     background: white;
 }
+/*-----------PRINCIPAL------------*/
+#principal{
+    width: 920px;
+    margin: 0 auto;
+}
+#area-postagens{
+    width: 660px;
+    background: green;
+}
+#barra-lateral{ 
+    width: 240px;
+    float: right;
+    background: green;
+}
