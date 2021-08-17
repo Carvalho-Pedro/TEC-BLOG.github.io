@@ -25,3 +25,14 @@ h1{
 #logo, #menu{
     padding: 10px;
 }
+a{
+    text-decoration: none;
+}
+a:link, a:visited{
+    color: white;
+    padding: 9px 15px;
+}
+a:hover{
+    color: #155FBF;
+    background: white;
+}
