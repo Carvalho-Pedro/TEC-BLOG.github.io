@@ -71,3 +71,17 @@ h2{
     padding: 15px;
     background: grey;
 }
+.conteudo{
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+h3{
+    background: grey;
+    color: black;
+    padding: 5px;
+}
+.postagem-lateral{
+    font-size: 0.8em;
+    padding: 5px;
+}
